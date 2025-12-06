@@ -3,8 +3,11 @@ Download and install Lively : https://www.rocksdanister.com/lively/
 And import the zip into Lively! Just launch and let the particles get they life!
 
 Based on the work of those guys:
+
 https://www.youtube.com/watch?v=4vk7YvBYpOs
+
 https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html
+
 https://www.youtube.com/watch?v=scvuli-zcRc
 
 Example:
